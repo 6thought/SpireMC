@@ -10,8 +10,10 @@
 <style>
   .slide-in {
   animation:
-  var(--animation-fade-in) forwards;
-  animation-duration: 2s;
+  var(--animation-fade-in) forwards,
+  var(--animation-slide-in-up);
+  animation-timing-function: var(--ease-elastic-in-out-3);
+  animation-duration: 3s;
 }
 .container {
   display: grid;
