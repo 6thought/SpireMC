@@ -60,10 +60,6 @@ section {
 section:nth-child(odd) {
     background: #323946;
 }
-.align-left {
-    text-align: left;
-    justify-content: left;
-    }
     .slide-in {
     animation:
     var(--animation-fade-in) forwards,
