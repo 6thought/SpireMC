@@ -60,3 +60,14 @@ section {
 section:nth-child(odd) {
     background: #323946;
 }
+.align-left {
+    text-align: left;
+    }
+    .slide-in {
+    animation:
+    var(--animation-fade-in) forwards,
+    var(--animation-slide-in-up);
+    animation-timing-function: var(--ease-elastic-in-out-3);
+    animation-duration: 1s;
+    text-align: center;
+  }
