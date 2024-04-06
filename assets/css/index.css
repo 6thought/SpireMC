@@ -50,8 +50,6 @@ nav a.active {
 section {
     min-height: 100vh;
     display: flex;
-    justify-content: center;
-    align-items: center;
     margin-inline: auto;
     background: #1f242d;
     font-size: 100px;
