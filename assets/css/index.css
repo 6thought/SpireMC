@@ -68,3 +68,7 @@ section:nth-child(odd) {
     animation-duration: 1s;
     text-align: center;
   }
+  .nav-cen {
+    display: flex;
+    justify-content: center;
+  }
