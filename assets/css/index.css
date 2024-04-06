@@ -68,7 +68,3 @@ section:nth-child(odd) {
     animation-duration: 1s;
     text-align: center;
   }
-  #nav ul {
-    display: inline-block;
-    list-style-type: none;
-}
