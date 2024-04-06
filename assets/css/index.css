@@ -52,6 +52,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-inline: auto;
     background: #1f242d;
     font-size: 100px;
     color: #fff;
