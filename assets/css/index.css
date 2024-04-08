@@ -40,7 +40,6 @@ nav a {
     color: #fff;
     text-decoration: none;
     font-weight: 500;
-    margin-inline: auto;
     transition: .3s;
 }
 nav a:hover,
