@@ -24,7 +24,8 @@ header {
     background: #11141a;
     display: flex;
     justify-content: space-evenly;
-    z-index: auto;
+    align-items: center;
+    z-index: 100;
 }
 .logo {
     font-size: 25px;
