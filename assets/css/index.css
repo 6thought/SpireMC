@@ -22,8 +22,8 @@ header {
     width: 100%;
     padding: 20px 120px;
     background: #11141a;
+    display: flex;
     justify-content: space-evenly;
-    align-items: center;
     z-index: 100;
 }
 .logo {
